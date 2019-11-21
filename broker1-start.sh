@@ -1,0 +1,1 @@
+kafka-server-start.sh broker1.properties
